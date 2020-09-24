@@ -1,0 +1,7 @@
+{
+    "xHjhHeG98QQ8PlatformUserCreateUser": {
+        "lambda": {
+            "body": "{\n  \"username\": \"teste\",\n  \"fullName\": \"teste\",\n  \"email\": \"teste@senior.com.br\",\n  \"password\": \"teste\",\n  \"blocked\": false,\n  \"changePassword\": false,\n  \"properties\": []\n}"
+        }
+    }
+}

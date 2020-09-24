@@ -1,0 +1,330 @@
+{
+    "xHjhHeG98QQ8HcmPayrollEmployeeSave": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "bearer 4f5468b02572ed25c86dd5f6f3b7ecfb"
+            },
+            "body": {
+                "sheetContract": {
+                    "admissionOriginType": {
+                        "key": "NORMAL",
+                        "value": "Normal"
+                    },
+                    "hireDate": "2015-04-01",
+                    "registernumber": 45,
+                    "hireType": {
+                        "key": "Reemprego",
+                        "value": "2 - Reemprego"
+                    },
+                    "situation": {
+                        "tableId": "0946261C18F44D9F9A373DCB62C85586",
+                        "name": "Trabalhando"
+                    },
+                    "eSocialAdmissionType": {
+                        "key": "TYPE_01",
+                        "value": "Admissão"
+                    },
+                    "categoryESocial": {
+                        "key": "Category_101",
+                        "value": "101 - Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT (Vigente desde 01/04/2015)"
+                    },
+                    "sefipCategoryType": {
+                        "key": "TYPE_01",
+                        "value": "Empregado (Vigente desde 01/04/2015)"
+                    },
+                    "unemploymentInsuranceType": {
+                        "key": "NOT_CONSULTED",
+                        "value": "Não consultado"
+                    },
+                    "appearsinRais": "false",
+                    "actingType": {
+                        "tableId": "C76349B01B1D46D6B610FA65A7E74BA8",
+                        "name": "Atuação Principal"
+                    },
+                    "employeeType": {
+                        "key": "EMPLOYEE",
+                        "value": "1 - Colaborador"
+                    },
+                    "employmentRelationship": {
+                        "tableId": "A405AE39A5BF48A394389A6AED861AEB",
+                        "name": "80 - Diretor ñ Empregado (Vigente desde 01/04/2015)"
+                    },
+                    "duration": 0,
+                    "extension": 0,
+                    "endDate": "2015-04-01",
+                    "customFieldsEmployee": [
+                        {
+                            "field": "USU_CARCON",
+                            "value": "S"
+                        }
+                    ],
+                    "customFieldsHistoricalExpenseNature": []
+                },
+                "sheetDocument": {
+                    "cpfNumber": "06456744946",
+                    "pisNumber": "02345089711",
+                    "pisIssuanceDate": "1980-01-01",
+                    "ctpsNumber": "000141461",
+                    "ctpsSerie": "005",
+                    "ctpsState": {
+                        "tableId": "E787ED1CA6CA4CBBBA14FA0B56C191D4",
+                        "name": "Santa Catarina"
+                    },
+                    "ctpsIssuanceDate": "1980-01-01",
+                    "customFieldsRg": []
+                },
+                "sheetFinancial": {
+                    "payType": {
+                        "key": "Monthly",
+                        "value": "Mensal"
+                    },
+                    "payMode": {
+                        "key": "BankRelationship",
+                        "value": "Relação bancária"
+                    },
+                    "receivesThirteenthSalary": "true",
+                    "receivesSalaryAdvance": "true",
+                    "bank": {
+                        "tableId": "D961BBB4674340F0AEA985E8ED3D2170",
+                        "name": "1 - Banco do Brasil"
+                    },
+                    "bankBranch": {
+                        "tableId": "78B2D168621346879FF3FE9511A6B390",
+                        "name": "1 - CENTRO"
+                    },
+                    "accountType": {
+                        "key": "CurrentAccount",
+                        "value": "1 - Conta Corrente"
+                    },
+                    "accountNumber": "1233",
+                    "accountDigit": "3",
+                    "fgtsInterestRate": 3,
+                    "fgtsOptingDate": "2015-04-01",
+                    "optingForFGTS": "true",
+                    "customFieldsAccount": [],
+                    "useHistoricalBankAccount": false,
+                    "hireDate": "1900-01-01"
+                },
+                "sheetInitial": {
+                    "company": {
+                        "tableId": "DDB25B0A8B114381B7E8DC085D85C0E9",
+                        "name": "1 - Demonstra Ind.& Com. Têxtil S/A"
+                    },
+                    "contractNationality": {
+                        "key": "National",
+                        "value": "1 - Nacional"
+                    },
+                    "employee": {
+                        "tableId": "63E470F170B14F9CAA75360AE9C4C3EF",
+                        "name": "Pedro Alencar"
+                    },
+                    "contractType": {
+                        "key": "Manager",
+                        "value": "2 - Diretor"
+                    },
+                    "person": {
+                        "tableId": "42A9B81B58514DD7994E74607577FED0",
+                        "name": "Pedro Alencar"
+                    }
+                },
+                "sheetPersona": {
+                    "attachment": {
+                        "attachmentId": "1A5EE1A7D6A246B8AD96ACB24934BE47",
+                        "fileId": "F1C218F1C0CF4E58B4E192AF65C4BC47/foto.png",
+                        "thumbnail": false
+                    },
+                    "nickname": "apelido",
+                    "gender": {
+                        "key": "Male",
+                        "value": "Masculino"
+                    },
+                    "birthday": "1962-04-23",
+                    "maritalStatus": {
+                        "key": "Married",
+                        "value": "2 - Casado"
+                    },
+                    "degreeOfEducation": {
+                        "tableId": "46F49ED8F9E24797A1F41C0AED658487",
+                        "name": "11 - Mestrado Completo"
+                    },
+                    "nationality": {
+                        "tableId": "170AA348BF78488C82E1729FD5A3D7DF",
+                        "name": "10 - Brasileiro"
+                    },
+                    "race": {
+                        "key": "White",
+                        "value": "1 - Branca"
+                    },
+                    "isDisability": "true",
+                    "isOccupantQuota": "true",
+                    "disabilities": [
+                        {
+                            "id": "65E459A20DFF4E49A7C3FF974576E50B",
+                            "disability": {
+                                "tableId": "753E16AAD2B04CEAADB24FBEE10556BE",
+                                "name": "Deficiente Físico(paraplégico)"
+                            },
+                            "startDate": "2099-01-01",
+                            "isMainDisability": true,
+                            "isRehabilitated": "false"
+                        }
+                    ],
+                    "customFieldsPerson": []
+                },
+                "sheetPlace": {
+                    "workstationGroup": {
+                        "tableId": "F0285ED104C44026AE3671F1D6F96D85",
+                        "name": "ADM001 - Diretor Administrativo (Vigente desde 01/04/2015)"
+                    },
+                    "branch": {
+                        "tableId": "1E19C7A56FC84372A6D239653ED2BF6E",
+                        "name": "1 - Demonstra S/A - Matriz (Vigente desde 01/04/2015)"
+                    },
+                    "costCenter": {
+                        "tableId": "E9BC1E656DEB42178AA4010869ED10F3",
+                        "name": "14 - Administrativo (Vigente desde 01/04/2015)"
+                    },
+                    "department": {
+                        "tableId": "713889089E43408D8B8B03F2F62E1CCB",
+                        "name": "1.02 - Administração (Vigente desde 01/04/2015)"
+                    },
+                    "jobPosition": {
+                        "tableId": "FCF4064F9BAD45139170776305F91A6A",
+                        "name": "40 - Diretor Administrativo (Vigente desde 01/04/2015)"
+                    },
+                    "workstationGroupStartDate": "2015-04-01",
+                    "branchStartDate": "2015-04-01",
+                    "costCenterStartDate": "2015-04-01",
+                    "departmentStartDate": "2015-04-01",
+                    "jobPositionStartDate": "2015-04-01",
+                    "customFieldsHistoricalWorkstation": [],
+                    "customFieldsHistoricalCostCenter": [],
+                    "customFieldsHistoricalJobPosition": [],
+                    "customFieldsHistoricalCompanyBranch": [],
+                    "customFieldsHistoricalDepartment": []
+                },
+                "sheetSalary": {
+                    "salaryType": {
+                        "key": "Monthly",
+                        "value": "Mensalista (Vigente desde 01/04/2015)"
+                    },
+                    "wageScale": {
+                        "tableId": "CFA999C67996438D91BFF5CD1F4FF6D4",
+                        "name": "Demonstração (Vigente desde 01/04/2015)"
+                    },
+                    "wageClass": {
+                        "tableId": "61700B9B17484FA3B1628C4097B2D45A",
+                        "name": "A (Vigente desde 01/04/2015)"
+                    },
+                    "wageLevel": {
+                        "tableId": "692749CB907F43BFAC3B55E48C9113C6",
+                        "name": "1 (Vigente desde 01/04/2015)"
+                    },
+                    "salary": "8270.00",
+                    "customFieldsHistoricalSalary": []
+                },
+                "sheetSyndicate": [
+                    {
+                        "syndicate": {
+                            "tableId": "CF4ECD5697D5432F9EE8E371AE5A2628",
+                            "name": "Sind. Indústria Blumenau (Vigente desde 01/04/2015)"
+                        },
+                        "isMainSyndicate": true,
+                        "isUnionized": false,
+                        "isAssistanceFee": false,
+                        "isCosting": false,
+                        "isReversion": false
+                    }
+                ],
+                "sheetWorkSchedule": {
+                    "workshiftStartDate": "2015-04-01",
+                    "workshift": {
+                        "tableId": "52E7EBE7A9564C53ACE9946DA8379BBE",
+                        "name": "08:00 1200-1330 1800/Móvel (Vigente desde 01/04/2015)"
+                    },
+                    "workshiftGroup": {
+                        "tableId": "2D4968C9253742EE9862CDEEB5D15E56",
+                        "name": "1 (Vigente desde 01/04/2015)"
+                    },
+                    "customFieldsHistoricalWorkshift": []
+                },
+                "sheetOtherContract": {
+                    "otherContractType": {
+                        "key": "SINGLE_CONTRACT",
+                        "value": "Contrato único"
+                    },
+                    "customFieldsOtherContract": []
+                },
+                "sheetEntries": {},
+                "sheetComplement": {
+                    "retirementType": null,
+                    "retirementDate": null,
+                    "taxExemption": null,
+                    "movementSefipRetirement": null,
+                    "transportationVoucherScale": null,
+                    "pointEmbarkation": null,
+                    "transportationVoucherStartDate": null,
+                    "healthAndSafety": {
+                        "lastMedicalExaminationDate": null,
+                        "nextMedicalExaminationDate": null
+                    },
+                    "healthPlan": {
+                        "healthPlanType": null,
+                        "healthPlanCode": null,
+                        "registrationCode": null,
+                        "inclusionDate": null,
+                        "exclusionDate": null,
+                        "healthplanCode": null
+                    },
+                    "qualificationStructure": {
+                        "qualification": null,
+                        "wagescale": null,
+                        "wageclass": null,
+                        "wagelevel": null
+                    },
+                    "badge": null,
+                    "issueDotCard": {
+                        "key": "No",
+                        "value": "Não"
+                    },
+                    "controlPoint": {
+                        "key": "TYPE_4",
+                        "value": "Não Conta"
+                    },
+                    "deleteClockingEventType": {
+                        "key": "TYPE_1",
+                        "value": "Não eliminar"
+                    },
+                    "customFieldsHistoricalTransportationVoucherScale": [],
+                    "customFieldsRetirement": [],
+                    "healthPlanType": null
+                },
+                "sheetContractDetails": {
+                    "director": {
+                        "enrollmentInss": null,
+                        "oldAgeRetirementType": {
+                            "key": "No",
+                            "value": "Não"
+                        },
+                        "contributionClass": 0,
+                        "startGpsQuarterly": null,
+                        "automaticClassUpdateType": {
+                            "key": "No",
+                            "value": "Não"
+                        },
+                        "inssCardType": {
+                            "key": "Yes",
+                            "value": "Sim"
+                        },
+                        "inssDeductType": {
+                            "key": "NORMAL",
+                            "value": "Normal"
+                        },
+                        "inssDiscount": 11,
+                        "directorCustomFields": []
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "xHjhHeG98QQ8HcmPayrollEnumQuery": {
+            "PhysicalId": {
+                "us-east-1": "xHjhHeG98QQ8HcmPayrollEnumQuery"
+            }
+        }
+    }
+}
